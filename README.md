@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Mostafa-Hassan-El-Sonbaty">
-    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+%26+Business+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Building+Automated+Data+Pipelines;ERP+Systems+%7C+Odoo;Banking+%26+Petroleum+Sector+Experience" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Data+%26+Business+Analyst;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;ERP+Systems+%7C+Odoo alt="Typing Animation" />
   </a>
 </p>
 
