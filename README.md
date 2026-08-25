@@ -42,7 +42,7 @@
 | Data Department Intern | Agricultural Bank of Egypt (ABE) | Jul 2026 |
 | Professional Data Analyst Trainee | Digital Egypt Pioneers Initiative (DEPI) | Jul 2026 – Present |
 | Independent Freelancer | Self-employed | Apr 2026 – Present |
-| Back-end Dev Member | Code to Commerce (C2C) | Nov 2025 – Jul 2026 |
+| Back-end Dev Member | Code to Commerce (C2C) | Nov 2025 – Aug 2026 |
 | IT Intern | PetroShahd Petroleum | Sep 2025 |
 | Public Relations Intern | PetroGulf Misr | Aug 2025 |
 | Business Planning & Analysis Intern | ADIB Egypt | Jul 2025 |
