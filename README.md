@@ -78,7 +78,7 @@
 
 ## 1. 🏪 Central Superstore - SQL Data Warehouse & Business Analytics
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Mostafa-Hassan-El-Sonbaty/Central-Superstore)
+[![View Repository](https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Mostafa-Hassan-El-Sonbaty/Central_Superstore_SQL_Data_Warehouse)
 
 Built an end-to-end **PostgreSQL Data Warehouse** from a raw retail dataset containing **2,323 order line items**.
 
