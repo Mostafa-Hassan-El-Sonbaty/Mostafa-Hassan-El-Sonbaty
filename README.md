@@ -153,6 +153,7 @@ Cleaned and transformed raw data before building an interactive **Power BI dashb
 Developed a go-to-market strategy for a new product line, covering market research, competitive analysis, pricing strategy, multi-channel promotion, and KPI development.
 
 **Tech:** PowerPoint · Market Research · Competitive Analysis · Strategic Planning
+
 ---
 
 ### 💬 WhatsApp GUI Clone
@@ -172,36 +173,6 @@ Desktop chat interface developed using Python Tkinter and Pillow.
 Classic Hangman game featuring Arab country names and ASCII-based interface.
 
 **Tech:** Python · Game Logic
-
----
-
-### 🍽️ Restaurant Menu
-
-[Repository](https://github.com/Mostafa-Hassan-El-Sonbaty/Restaurant-Menu)
-
-Python-based restaurant ordering system with tax and delivery fee calculations.
-
-**Tech:** Python · Functions · Conditional Logic
-
----
-
-### ☕ Coffee Shop
-
-[Repository](https://github.com/Mostafa-Hassan-El-Sonbaty/Coffee-Shop)
-
-Coffee shop ordering system with menu selection and automated receipt generation.
-
-**Tech:** Python · Functions · Input Handling
-
----
-
-### 🔢 Number Guessing Game
-
-[Repository](https://github.com/Mostafa-Hassan-El-Sonbaty/Number-Guessing-Game)
-
-Interactive number guessing game with hints and validation.
-
-**Tech:** Python · Loops · Conditional Logic
 
 </details>
 
