@@ -143,18 +143,17 @@ Cleaned and transformed raw data before building an interactive **Power BI dashb
 
 ---
 
-## 4. 📊 Corona Ice Cream — Marketing Strategy
+<details>
+<summary>🧩 More Projects ▾</summary>
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Mostafa-Hassan-El-Sonbaty/corona-marketing-project)
+### 📊 Corona Ice Cream - Marketing Strategy
+
+[Repository](https://github.com/Mostafa-Hassan-El-Sonbaty/corona-marketing-project)
 
 Developed a go-to-market strategy for a new product line, covering market research, competitive analysis, pricing strategy, multi-channel promotion, and KPI development.
 
 **Tech:** PowerPoint · Market Research · Competitive Analysis · Strategic Planning
-
 ---
-
-<details>
-<summary>🧩 More Projects ▾</summary>
 
 ### 💬 WhatsApp GUI Clone
 
